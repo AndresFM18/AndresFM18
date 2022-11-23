@@ -61,18 +61,61 @@
 <img width="450" alt="Creacion" src="https://user-images.githubusercontent.com/87154010/203457733-f4dcf25d-7165-43b3-9102-00c8fc84c0a6.png">
 
 Repositorio:  <a href="https://github.com/AndresFM18/pi-Pokemons"  target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" style="margin-left: 10px;" /></a> 
-<!--
-**AndresFM18/AndresFM18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="30" style="margin-left: 10px;" /></a>
+      
+      
+      
+<hr/>
+  
+  ### :computer:<strong>CompuDevs- (In Progress For Perfections) </strong>
+ <hr/>
+ 
+<h3>En este proyecto trabaje fortaleciendo todos los conocimientos previos y sumando nuevas bases de datos y mejorando mis habilidades sociales con el trabajo en equipo formado por: <a href="https://github.com/Thereapson" target="_blank" rel="noopener noreferrer">Sebastian Huerfano</a>, <a href="https://github.com/Angiep89" target="_blank" rel="noopener noreferrer">Angie Perdomo</a>, <a href="https://github.com/Frxncoyx" target="_blank" rel="noopener noreferrer">Franco Coronel</a>,<a href="https://github.com/Makami-Yv" target="_blank" rel="noopener noreferrer">Erik Ramírez</a>,<a href="https://github.com/Rodrigo2297" target="_blank" rel="noopener noreferrer">Rodrigo Madona</a>,<a href="https://github.com/williamagz" target="_blank" rel="noopener noreferrer">William García</a>.
+Nuestro objetivo principal en este proyecto fue afianzar nuestros nuestros conocimientos tanto en el back-end como en el front-end, enfocándonos en la idea de crear un E-commerce basado en tecnología, más específicamente componentes de computadoras, aportando una experiencia de usuario óptima y a su vez bastante intuitiva.
+</h3>
 
-Here are some ideas to get you started:
+Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs en deploy) da click ----><a href="https://compudevs.vercel.app/" target="_blank" rel="noopener noreferrer">Aqui para verla</a> <---
+<h4> Desarrollada con: </h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <h4>|--| FrontEnd |--|</h4>
+    <li>React</li>
+    <li>Redux</li>
+    <li>Tailwind css</li>
+    <li>Stripe(Para los pagos)</li>250
+  <h4>|--| BackEnd |--|</h4>
+    <li>NodeJs</li>
+    <li>Nodemailer</li>
+    <li>Express</li>
+    <li>MongoDb</li>
+    <li>Stripe(Para los pagos)</li>
+</ul>
+
+![]()
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/LandingPF.png" alt="landing" height="250"/>
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/HomePF.png" alt="Home" height="250"/>
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/CardPF.png" alt="Card" height="250"/>
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/Cart.png" alt="Cart" height="250"/>
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/Register.png" alt="Register" height="250"/>
+<img src="https://github.com/Thereapson/Thereapson/blob/main/imgs/Login.png" alt="Login" height="250"/>
+
+
+<hr/>
+
+  ### :clipboard:<strong>Tecnologias y herramientas:</strong>
+
+<hr/>
+<p align="center">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+  <img width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/javascript-1.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+  <br />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+  <img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+  <img  width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/expressjs.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
+  <br />
+</p>
