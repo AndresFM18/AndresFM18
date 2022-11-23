@@ -82,7 +82,7 @@ Deployada en Vercel, pero actualmente en proceso de perfeccionamiento(por bugs e
     <li>React</li>
     <li>Redux</li>
     <li>Tailwind css</li>
-    <li>Stripe(Para los pagos)</li>250
+    <li>Stripe(Para los pagos)</li>
   <h4>|--| BackEnd |--|</h4>
     <li>NodeJs</li>
     <li>Nodemailer</li>
